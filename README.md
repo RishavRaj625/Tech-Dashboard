@@ -82,7 +82,7 @@ Click the "Tech Dashboard" title anytime to refresh and start over, with cursor-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tech-dashboard.git
+   git clone https://github.com/RishavRaj625/tech-dashboard.git
    cd tech-dashboard
    ```
 
