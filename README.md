@@ -2,7 +2,7 @@
 
 A comprehensive learning platform designed to help developers master essential programming technologies through interactive guides, practical examples, and hands-on practice exercises.
 
-## 🌟 Features
+## 🌟 Features:
 
 ### 🎯 **Learn • Practice • Master**
 Our three-step learning methodology ensures you don't just read about technologies - you actually understand and apply them.
