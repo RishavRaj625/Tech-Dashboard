@@ -266,4 +266,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Clone the repo, fire up the development server, and begin exploring the world of modern web development. Whether you're building your first webpage or architecting complex applications, Tech Dashboard has the resources you need to succeed.
 
-**Happy coding!** 💻✨
+**Happy coding!!** 💻✨
