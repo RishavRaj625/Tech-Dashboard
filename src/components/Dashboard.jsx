@@ -4,6 +4,7 @@ import TechContainer from './TechContainer';
 import ReadmeViewer from './ReadmeViewer';
 import { htmlReadme } from './readme-files/html-readme';
 import { reactReadme } from './readme-files/react-readme';
+import { jsReadme } from './readme-files/js-readme';
 
 const Dashboard = () => {
   const [selectedTech, setSelectedTech] = useState(null);
@@ -53,8 +54,8 @@ const Dashboard = () => {
         // return cssReadme; // Will be added later
         return null;
       case 'JavaScript':
-        // return jsReadme; // Will be added later
-        return null;
+        return jsReadme;
+        // return null;
       case 'React':
          return reactReadme; // Will be added later
       case 'SQL':
@@ -238,5 +239,6 @@ if (!document.querySelector('#dashboard-animations')) {
   `;
   document.head.appendChild(style);
 }
+
 
 export default Dashboard;
