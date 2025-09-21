@@ -20,7 +20,7 @@ Click the "Tech Dashboard" title anytime to refresh and start over, with cursor-
 
 ### 1. **HTML** 📄
 - **What you'll learn**: Semantic markup, accessibility, modern HTML5 features
-- **Includes**: Structure fundamentals, forms, media elements, SEO optimization
+- **Includes**: Structure fundamentals, forms, media elements, SEO optimizations
 - **Practice**: Build real-world webpage layouts and components
 
 ### 2. **CSS** 🎨
