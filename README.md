@@ -167,7 +167,7 @@ tech-dashboard/
 │   │       ├── sql-readme.js    # SQL learning content
 │   │       └── python-readme.js # Python learning content
 │   ├── App.jsx                  # Main app component
-│   ├── App.css                  # Global styles
+│   ├── App.css                  # Global style
 │   └── index.js                 # Entry point
 ├── public/
 │   └── index.html              # HTML template
